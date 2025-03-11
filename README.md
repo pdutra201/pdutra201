@@ -1,9 +1,11 @@
 Hi there 👋 I'm Philip!
+
 I'm a passionate software engineer with a background in Computer Engineering and experience working with a range of technologies, including Python, Flask, React, and SQL. I’m always learning and working on new projects to improve my skills.
 
 🌱 Currently learning:
 C#
 Advanced React concepts
+
 Deepening my knowledge of Flask and SQLAlchemy
 Working with Swift for iOS development
 
