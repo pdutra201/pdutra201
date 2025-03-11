@@ -26,6 +26,8 @@ Database: PostgreSQL, MySQL, SQLite
 Cloud: AWS, Google Cloud
 
 🌟 Some of my cool projects:
+
 Door Knocking App : Swift code CRM for door knocking sales
+
 API Script : CRM data export/import using API
 
